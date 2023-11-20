@@ -12,6 +12,11 @@
 
 Used kaggle 'TMDB 5000 Movie Dataset'.Movie dataset contains 20 features such as budget,genre,keywords etc is merged with Credit dataset contains 4 features on the basis of 'title' and 'id'.
 
+**You can find the datasets from below links**:
+
+1. [credits_dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
+2. [movies_dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+
 **Did exploratory data analysis to gain some insights on data**:
  * Extracted and visualized Top Movies based on popularity,Top Blockbuster Movies and flop movies based profit/loss,Top movies based on imdb rating,Distribution of Movies by IMDb Rating Category,Count Plot for Range of Votes,Count Plot for number of Profit and loss movies
  * Formatted the genre,keywords,cast & crew .Extracted the top movie genres ,Top 10 popular actors based on cast,Top 10 directors based on crew etc.
